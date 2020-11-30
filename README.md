@@ -1,7 +1,7 @@
 [![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravrs999&show_icons=true&theme=dark)](https://github.com/souravrs999)
 
 <a href="https://github.com/souravrs999/License-Plate-Recognition">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=License-Plate-Recogniton&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=License-Plate-Recognition&theme=dark" />
 </a>
 
 <a href="https://github.com/souravrs999/Dot-files">
