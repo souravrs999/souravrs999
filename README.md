@@ -8,8 +8,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Dot-files&theme=dark" />
 </a>
 
-<a href="https://github.com/souravrs999/Alzheimers">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Alzheimers&theme=dark" />
+<a href="https://github.com/souravrs999/Gaze-Unity">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Gaze-Unity&theme=dark" />
 </a>
 
 <a href="https://github.com/souravrs999/Face-Recognition-Attendence-Register">
