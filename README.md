@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/souravrs999/Face-Recognition-Attendence-Register">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Face-Recognition-Attendence-Register" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Face-Recognition-Attendence-System" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravrs999&layout=compact&repo=License-Plate-Recognition)](https://github.com/souravrs999)
