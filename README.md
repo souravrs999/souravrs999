@@ -16,7 +16,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Face-Recognition-Attendence-Register" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravrs999&layout=compact)](https://github.com/souravrs999)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravrs999&layout=compact&repo=License-Plate-Recognition)](https://github.com/souravrs999)
 
 [![Sourav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souravrs999&layout=compact)](https://github.com/souravrs999)
 
