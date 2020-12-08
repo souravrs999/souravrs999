@@ -1,10 +1,13 @@
 <h2 align="center" style="color: #323232">
 Hi there i'm Sourav
 </h2>
-####Currently im working as a Machine Learning Engineer at [Embrighth Infotech](https://embrightinfotech.com/), I prefer working with languages like [Python](https://www.python.org/), C++, C, CUDA etc. I have also had experience working with Html, CSS, Javascript, Bulma, MySQL, Flask, PostgreSQL etc..
+
+Currently im working as a Machine Learning Engineer at [Embrighth Infotech](https://embrightinfotech.com/), I prefer working with languages like [Python](https://www.python.org/), C++, C, CUDA etc. I have also had experience working with Html, CSS, Javascript, Bulma, MySQL, Flask, PostgreSQL etc..
+
 <h3 align="center">
 Language and Tools
 </h3>
+
 <div align="center">
 <img align="center" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="center" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
@@ -24,7 +27,9 @@ Language and Tools
 <img align="center" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <img align="center" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </div>
+
 [![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravrs999&show_icons=true)](https://github.com/souravrs999)
+
 <a href="https://github.com/souravrs999/License-Plate-Recognition">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=License-Plate-Recognition" />
 </a>
