@@ -30,20 +30,28 @@ Language and Tools
 
 ### My Stats
 
-[![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravrs999&show_icons=true)](https://github.com/souravrs999)
+[![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravrs999&theme=dark&show_icons=true)](https://github.com/souravrs999)
 
-<a href="https://github.com/souravrs999/License-Plate-Recognition">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=License-Plate-Recognition" />
+<a href="https://github.com/souravrs999/FaucetCryptoBot">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=FaucetCryptoBot" />
 </a>
 
+<a href="https://github.com/souravrs999/License-Plate-Recognition">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=License-Plate-Recognition" />
+</a>
+
+<br>
+
 <a href="https://github.com/souravrs999/Dot-files">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Dot-files" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Dot-files" />
 </a>
 
 <a href="https://github.com/souravrs999/Gaze-Unity">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Gaze-Unity" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Gaze-Unity" />
 </a>
 
+<br>
+
 <a href="https://github.com/souravrs999/Face-Recognition-Attendence-System">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Face-Recognition-Attendence-System" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Face-Recognition-Attendence-System" />
 </a>
