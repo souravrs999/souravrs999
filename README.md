@@ -40,18 +40,15 @@ Language and Tools
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=License-Plate-Recognition" />
 </a>
 
-<br>
-
-<a href="https://github.com/souravrs999/Dot-files">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Dot-files" />
+<a href="https://github.com/souravrs999/Face-Recognition-Attendence-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Face-Recognition-Attendence-System" />
 </a>
+
 
 <a href="https://github.com/souravrs999/Gaze-Unity">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Gaze-Unity" />
 </a>
 
-<br>
-
-<a href="https://github.com/souravrs999/Face-Recognition-Attendence-System">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Face-Recognition-Attendence-System" />
+<a href="https://github.com/souravrs999/Dot-files">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&theme=dark&repo=Dot-files" />
 </a>
