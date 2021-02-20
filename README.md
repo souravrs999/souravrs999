@@ -47,6 +47,3 @@ Language and Tools
 <a href="https://github.com/souravrs999/Face-Recognition-Attendence-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souravrs999&repo=Face-Recognition-Attendence-System" />
 </a>
-
-[![Sourav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souravrs999&layout=compact)](https://github.com/souravrs999)
-
