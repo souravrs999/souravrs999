@@ -2,7 +2,7 @@
 Hi there i'm Sourav
 </h2>
 
-Currently im working as a Machine Learning Engineer at [Embrighth Infotech](https://embrightinfotech.com/), I prefer working with languages like [Python](https://www.python.org/), C++, C, CUDA etc. I have also had experience working with Html, CSS, Javascript, Bulma, MySQL, Flask, PostgreSQL etc..
+Currently im working as a Software Development Engineer at [Coddle](https://www.coddletech.com/), I prefer working with languages like [Python](https://www.python.org/), C++, C, CUDA etc. I have also had experience working with Html, CSS, Javascript, Typescript, Node, Express, Bulma, MySQL, Flask, PostgreSQL etc..
 
 <h3 align="center">
 Language and Tools
